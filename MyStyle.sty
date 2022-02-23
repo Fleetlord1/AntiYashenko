@@ -1,0 +1,59 @@
+\ProvidesPackage{MyStyle}
+
+\usepackage{tocloft}
+\usepackage{cmap}
+\usepackage[]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{mathtools}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{titlesec,fancyhdr}
+\usepackage{nccfoots}
+\usepackage{caption}
+\usepackage{wrapfig}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage{stackrel}
+\usepackage{enumitem}
+\usepackage{bm}
+\graphicspath{}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usepackage[showframe, nomarginpar, left = 25mm, nofoot, footskip=15pt, bindingoffset=0cm, bottom=10mm]{geometry}[left=0cm,right=0cm,top=0cm,bottom=0cm,bindingoffset=0cm]
+%\usepackage[showframe, a5paper, top=15mm, right=30mm, bottom=15mm, bindingoffset=0cm, nomarginpar]{geometry}
+
+
+%\newcommand{\sectionbreak}{\clearpage}
+
+
+\titleformat{\chapter}[block]
+{\bfseries\filcenter}
+{\thechapter.}{0pt}{}
+
+\titlespacing{\chapter}{0pt}{10pt}{10pt}
+
+\titleformat{\section}{\bfseries\filcenter}{\thesection .}{0pt}{}
+
+\titleformat{\subsection}{\bfseries\filcenter}{\thesubsection.}{0pt}{}
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead{}
+\fancyfoot{}
+\fancyhead[LE,RO]{\slshape \rightmark}
+\fancyhead[LO,RE]{\slshape \leftmark}
+\fancyfoot[C]{\thepage}
+
+\fancypagestyle{plain}{%
+	\fancyhead{}
+	\renewcommand{\headrulewidth}{0pt}
+}
+
+\author{}
+\title{РЕШЕНИЯ ЗАДАЧ ИЗ СБОРНИКА Под ред. И.В. ЯЩЕНКО ОГЭ 3000 ЗАДАЧ С ОТВЕТАМИ ПО МАТЕМАТИКЕ}
+\date{2022}
+
+
+\setcounter{tocdepth}{2}
+\addto{\captionsrussian}{\renewcommand*{\contentsname}{\Large Содержание}}
