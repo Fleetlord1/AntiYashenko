@@ -1,0 +1,371 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.2.19)  25 MAR 2022 19:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**22.tex
+(./22.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-05>
+! Undefined control sequence.
+l.1 \section
+            {ГЕОМЕТРИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Unicode character Г (U+0413)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Г
+               ЕОМЕТРИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Е (U+0415)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕ
+                 ОМЕТРИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character О (U+041E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕО
+                   МЕТРИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character М (U+041C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМ
+                     ЕТРИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Е (U+0415)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕ
+                       ТРИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Т (U+0422)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТ
+                         РИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Р (U+0420)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТР
+                           ИЯ НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character И (U+0418)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИ
+                             Я НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Я (U+042F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ
+                                НА КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Н (U+041D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ Н
+                                  А КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character А (U+0410)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ НА
+                                     КЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character К (U+041A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ НА К
+                                       ЛЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Л (U+041B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ НА КЛ
+                                         ЕТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Е (U+0415)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ НА КЛЕ
+                                           ТЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Т (U+0422)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ НА КЛЕТ
+                                             ЧАТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Ч (U+0427)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ НА КЛЕТЧ
+                                               АТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character А (U+0410)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ГЕОМЕТРИЯ НА КЛЕТЧА
+                                                 ТОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Т (U+0422)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...tion{ГЕОМЕТРИЯ НА КЛЕТЧАТ
+                                                  ОЙ БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character О (U+041E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...on{ГЕОМЕТРИЯ НА КЛЕТЧАТО
+                                                  Й БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Й (U+0419)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...{ГЕОМЕТРИЯ НА КЛЕТЧАТОЙ
+                                                   БУМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Б (U+0411)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ЕОМЕТРИЯ НА КЛЕТЧАТОЙ Б
+                                                  УМАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character У (U+0423)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ОМЕТРИЯ НА КЛЕТЧАТОЙ БУ
+                                                  МАГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character М (U+041C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...МЕТРИЯ НА КЛЕТЧАТОЙ БУМ
+                                                  АГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character А (U+0410)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ЕТРИЯ НА КЛЕТЧАТОЙ БУМА
+                                                  ГЕ}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Г (U+0413)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ТРИЯ НА КЛЕТЧАТОЙ БУМАГ
+                                                  Е}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Е (U+0415)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...РИЯ НА КЛЕТЧАТОЙ БУМАГЕ
+                                                  }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+)
+! Emergency stop.
+<*> 22.tex
+          
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 32 strings out of 478278
+ 450 string characters out of 5841530
+ 289192 words of memory out of 5000000
+ 18338 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,12p,103b,32s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
