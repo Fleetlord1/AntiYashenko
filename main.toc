@@ -1,6 +1,43 @@
 \babel@toc {russian}{}\relax 
-\contentsline {chapter}{\numberline {1}АЛГЕБРА}{2}{}%
-\contentsline {section}{\numberline {1.1}ЧИСЛА И ВЫЧИСЛЕНИЯ}{2}{}%
-\contentsline {subsection}{\numberline {1.1.1}Натуральные числа}{2}{}%
-\contentsline {chapter}{\numberline {2}ГЕОМЕТРИЯ}{3}{}%
-\contentsline {section}{\numberline {2.1}ОСНОВНЫЕ ПОНЯТИЯ И УТВЕРЖДЕНИЯ ГЕОМЕТРИИ}{3}{}%
+\contentsline {chapter}{\numberline {1}АЛГЕБРА}{3}{}%
+\contentsline {section}{\numberline {1.1}ЧИСЛА И ВЫЧИСЛЕНИЯ}{3}{}%
+\contentsline {subsection}{\numberline {1.1.1}Натуральные числа}{3}{}%
+\contentsline {subsection}{\numberline {1.1.2}Рациональные числа}{4}{}%
+\contentsline {subsection}{\numberline {1.1.3} Действительные числа}{13}{}%
+\contentsline {section}{\numberline {1.2}АЛГЕБРАИЧЕСКИЕ ВЫРАЖЕНИЯ}{15}{}%
+\contentsline {subsection}{\numberline {1.2.1}Буквенные выражения}{15}{}%
+\contentsline {subsection}{\numberline {1.2.2}Многочлены}{16}{}%
+\contentsline {subsection}{\numberline {1.2.3}Алгебраические дроби}{19}{}%
+\contentsline {subsection}{\numberline {1.2.4}Степени с целыми показателями и их свойства}{27}{}%
+\contentsline {subsection}{\numberline {1.2.5}Квадратный корень и его свойства}{27}{}%
+\contentsline {section}{\numberline {1.3}УРАВНЕНИЯ И НЕРАВЕНСТВА}{31}{}%
+\contentsline {subsection}{\numberline {1.3.1}Линейные уравнения с одной переменной}{31}{}%
+\contentsline {subsection}{\numberline {1.3.2}Квадратные уравнения}{32}{}%
+\contentsline {subsection}{\numberline {1.3.3}Рациональные уравнения}{34}{}%
+\contentsline {subsection}{\numberline {1.3.4}Системы двух уравнений с двумя переменными}{36}{}%
+\contentsline {subsection}{\numberline {1.3.5}Числовые неравенства и их свойства}{39}{}%
+\contentsline {subsection}{\numberline {1.3.6}Линейные неравенства с одной переменной}{42}{}%
+\contentsline {subsection}{\numberline {1.3.7}Системы линейных неравенств с одной переменной}{43}{}%
+\contentsline {subsection}{\numberline {1.3.8}Квадратные неравенства}{44}{}%
+\contentsline {section}{\numberline {1.4}ЧИСЛОВЫЕ ПОСЛЕДОВАТЕЛЬНОСТИ}{50}{}%
+\contentsline {subsection}{\numberline {1.4.1}Последовательности}{50}{}%
+\contentsline {subsection}{\numberline {1.4.2}Арифметическая прогрессия}{51}{}%
+\contentsline {subsection}{\numberline {1.4.3}Геометрическая прогрессия}{53}{}%
+\contentsline {section}{\numberline {1.5}ФУНКЦИИ И ГРАФИКИ}{56}{}%
+\contentsline {subsection}{\numberline {1.5.1}Линейная, квадратичная и обратно- пропорциональная функции}{56}{}%
+\contentsline {subsection}{\numberline {1.5.2}Графическая интерпретация уравнений, неравенств и их систем}{59}{}%
+\contentsline {chapter}{\numberline {2}ГЕОМЕТРИЯ}{66}{}%
+\contentsline {section}{\numberline {2.1}ОСНОВНЫЕ ПОНЯТИЯ И УТВЕРЖДЕНИЯ ГЕОМЕТРИИ}{66}{}%
+\contentsline {section}{\numberline {2.2}ГЕОМЕТРИЯ НА КЛЕТЧАТОЙ БУМАГЕ}{67}{}%
+\contentsline {section}{\numberline {2.3}ТРЕУГОЛЬНИКИ}{68}{}%
+\contentsline {section}{\numberline {2.4}ЧЕТЫРЕХУГОЛЬНИКИ}{80}{}%
+\contentsline {section}{\numberline {2.5}ОКРУЖНОСТЬ И КРУГ}{92}{}%
+\contentsline {section}{\numberline {2.6}ТРИГОНОМЕТРИЯ}{109}{}%
+\contentsline {section}{\numberline {2.7}ВЕКТОРЫ НА ПЛОСКОСТИ}{114}{}%
+\contentsline {chapter}{\numberline {3}ПРАКТИКО-ОРИЕНТИРОВАННЫЕ ЗАДАЧИ}{121}{}%
+\contentsline {section}{\numberline {3.1}Текстовые задачи}{121}{}%
+\contentsline {subsection}{\numberline {3.1.1}Представление зависимостей между величинами в виде формул}{128}{}%
+\contentsline {subsection}{\numberline {3.1.2}Чтение графиков реальных зависимостей}{130}{}%
+\contentsline {subsection}{\numberline {3.1.3}Прикладные задачи по геометрии}{130}{}%
+\contentsline {subsection}{\numberline {3.1.4}Статистика}{135}{}%
+\contentsline {subsection}{\numberline {3.1.5}Теория вероятностей}{136}{}%
