@@ -1,33 +1,32 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.2.19)  23 FEB 2022 18:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.21)  30 MAR 2022 23:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-05>
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/base/book.cls
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-12>
+(c:/texlive/2021/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(c:/texlive/2021/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(./MyStyle.sty
+) (./MyStyle.sty
 Package: MyStyle 
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/tocloft/tocloft.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip49
@@ -59,37 +58,36 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip75
 \cftfigindent=\skip76
 \cftfignumwidth=\skip77
-\c@lofdepth=\count194
-\c@lotdepth=\count195
+\c@lofdepth=\count192
+\c@lotdepth=\count193
 \cftbeforelottitleskip=\skip78
 \cftafterlottitleskip=\skip79
 \cftbeforetabskip=\skip80
 \cfttabindent=\skip81
 \cfttabnumwidth=\skip82
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/cmap/cmap.sty
+(c:/texlive/2021/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/02/13 3.71 The Babel package
-\babel@savecnt=\count196
+(c:/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/11/08 3.66 The Babel package
+\babel@savecnt=\count194
 \U@D=\dimen139
 \l@unhyphenated=\language87
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+(c:/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count197
+\bbl@dirlevel=\count195
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/babel-english/english
-.ldf
+(c:/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -98,8 +96,7 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language21). Reported on input line 108.
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/babel-russian/russian
-b.ldf
+(c:/texlive/2021/texmf-dist/tex/generic/babel-russian/russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 
@@ -109,12 +106,12 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                Default `T2A' encoding will be loaded  on input line 78.
 
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(c:/texlive/2021/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/base/t2aenc.dfu
+(c:/texlive/2021/texmf-dist/tex/latex/base/t2aenc.dfu
 File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -316,55 +313,56 @@ File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count198
-\calc@Bcount=\count199
+\calc@Acount=\count196
+\calc@Bcount=\count197
 \calc@Adimen=\dimen140
 \calc@Bdimen=\dimen141
 \calc@Askip=\skip83
 \calc@Bskip=\skip84
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count266
+\calc@Ccount=\count198
 \calc@Cskip=\skip85
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/mathtools/mhsetup.sty
+(c:/texlive/2021/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip86
 
 For additional information on amsmath, use the `?' option.
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen142
 ))
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen143
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count267
+\inf@bad=\count199
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count268
-\leftroot@=\count269
+\uproot@=\count266
+\leftroot@=\count267
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count270
-\DOTSCASE@=\count271
+\classnum@=\count268
+\DOTSCASE@=\count269
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -373,15 +371,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen144
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count272
-\c@MaxMatrixCols=\count273
+\macc@depth=\count270
+\c@MaxMatrixCols=\count271
 \dotsspace@=\muskip16
-\c@parentequation=\count274
-\dspbrk@lvl=\count275
+\c@parentequation=\count272
+\dspbrk@lvl=\count273
 \tag@help=\toks20
-\row@=\count276
-\column@=\count277
-\maxfields@=\count278
+\row@=\count274
+\column@=\count275
+\maxfields@=\count276
 \andhelp@=\toks21
 \eqnshift@=\dimen145
 \alignsep@=\dimen146
@@ -396,7 +394,11 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
-\g_MT_multlinerow_int=\count279
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count277
 \l_MT_multwidth_dim=\dimen151
 \origjot=\skip89
 \l_MT_shortvdotswithinadjustabove_dim=\dimen152
@@ -408,7 +410,7 @@ LaTeX Info: Redefining \] on input line 2939.
 \xmathstrut@box=\box52
 \xmathstrut@dim=\dimen158
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks24
 \thm@bodyfont=\toks25
@@ -420,18 +422,18 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip92
 \dth@everypar=\toks29
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.st
-y
+))
+(c:/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box53
 \beforetitleunit=\skip93
@@ -442,7 +444,8 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen161
 \titlewidthlast=\dimen162
 \titlewidthfirst=\dimen163
-) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+)
+(c:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip95
@@ -454,12 +457,14 @@ rs
 \f@nch@O@erf=\skip101
 \f@nch@O@olf=\skip102
 \f@nch@O@orf=\skip103
-) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/ncctools/nccfoots.sty
+)
+(c:/texlive/2021/texmf-dist/tex/latex/ncctools/nccfoots.sty
 Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
-) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+)
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen164
 \captionmargin@=\dimen165
@@ -470,75 +475,75 @@ Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \caption@hangindent=\dimen170
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count280
-\c@continuedfloat=\count281
+\c@caption@flags=\count278
+\c@continuedfloat=\count279
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(c:/texlive/2021/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen171
 \WF@size=\dimen172
-\c@WF@wrappedlines=\count282
+\c@WF@wrappedlines=\count280
 \WF@box=\box54
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
-\c@subfigure=\count283
-\c@subtable=\count284
-) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+\c@subfigure=\count281
+\c@subtable=\count282
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.c
-fg
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen173
 \Gin@req@width=\dimen174
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/oberdiek/stackrel.sty
+(c:/texlive/2021/texmf-dist/tex/latex/oberdiek/stackrel.sty
 Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(c:/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.s
-ty
+(c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds
-.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.st
-y
+))
+(c:/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip104
 \enit@outerparindent=\dimen175
 \enit@toks=\toks32
 \enit@inbox=\box55
-\enit@count@id=\count285
-\enitdp@description=\count286
-) (d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
+\enit@count@id=\count283
+\enitdp@description=\count284
+)
+(c:/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
@@ -548,15 +553,18 @@ Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 )
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count287
-\Gm@cntv=\count288
-\c@Gm@tempcnt=\count289
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
 \Gm@bindingoffset=\dimen176
 \Gm@wd@mp=\dimen177
 \Gm@odd@mp=\dimen178
@@ -567,75 +575,78 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen183
 \Gm@dimlist=\toks33
 ))
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count290
-\l__pdf_internal_box=\box56
+(c:/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks34
+\float@box=\box56
+\@float@everytoks=\toks35
+\@floatcapt=\box57
 )
-
-LaTeX Warning: Unused global option(s):
-    [8pt].
-
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box58
+)
 (./main.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
 .
-
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+ (c:/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>> (./Algebra/11.aux) (./Geometry/21.aux))
+)<<t2a.cmap>> (./Algebra/11.aux) (./Algebra/12.aux) (./Algebra/13.aux) (./Algeb
+ra/14.aux)
+(./Algebra/15.aux) (./Geometry/21.aux) (./Geometry/22.aux) (./Geometry/23.aux)
+(./Geometry/24.aux) (./Geometry/25.aux) (./Geometry/26.aux) (./Geometry/27.aux)
+(./Text_exercises/chap3.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Info: Redefining \th on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Info: Redefining \th on input line 6.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mk
-ii
+(c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
+\scratchcounter=\count290
 \scratchdimen=\dimen184
-\scratchbox=\box57
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count294
+\scratchbox=\box59
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count293
 \MPscratchDim=\dimen185
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks35
-)
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-b
-ase.sty
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks37
+) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sy
-s.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -645,23 +656,23 @@ package with kernel methods
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside showframe 
-* h-part:(L,W,R)=(71.13188pt, 299.43631pt, 50.5326pt)
-* v-part:(T,H,B)=(71.70166pt, 497.35347pt, 28.45274pt)
+* h-part:(L,W,R)=(56.9055pt, 321.51616pt, 42.67912pt)
+* v-part:(T,H,B)=(28.45274pt, 540.60239pt, 28.45274pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=299.43631pt
-* \textheight=497.35347pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-21.7374pt
-* \topmargin=-30.63582pt
-* \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=15.0pt
+* \textwidth=321.51616pt
+* \textheight=540.60239pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-43.81725pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=18.0pt
 * \marginparwidth=0.0pt
 * \marginparsep=0.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -671,25 +682,28 @@ package with kernel methods
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(./main.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+ (./main.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
-(d:/programm/TeX Live/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (5.93854pt too wide) in paragraph at lines 6--6
- [][] []\T2A/cmr/m/n/10 ОСНОВНЫЕ ПО-НЯ-ТИЯ И УТВЕР-ЖДЕ-НИЯ ГЕО- 
+Overfull \hbox (1.56406pt too wide) in paragraph at lines 27--27
+ [][] []\T2A/cmr/m/n/10.95 Линейная, квад-ра-тич-ная и обратно- про-пор- 
  []
 
-)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+
+Overfull \hbox (10.48514pt too wide) in paragraph at lines 28--28
+ [][] []\T2A/cmr/m/n/10.95 Графическая ин-тер-пре-та-ция урав-не-ний, нера- 
+ []
+
+
+Underfull \vbox (badness 4072) has occurred while \output is active []
 
 
 Overfull \hbox (0.4pt too wide) has occurred while \output is active
@@ -698,21 +712,24 @@ Overfull \hbox (0.4pt too wide) has occurred while \output is active
 
 [1
 
-{d:/programm/TeX Live/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-}]
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (11.17183pt too wide) in paragraph at lines 30--30
+ [][] []\T2A/cmr/m/n/10.95 ОСНОВНЫЕ ПО-НЯ-ТИЯ И УТВЕР-ЖДЕ-НИЯ ГЕО- 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [2]
 \openout2 = `Algebra/11.aux'.
 
  (./Algebra/11.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-) [2
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-]
-\openout2 = `Geometry/21.aux'.
-
- (./Geometry/21.tex
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-)
 Overfull \hbox (0.4pt too wide) has occurred while \output is active
 [] | [] |
  []
@@ -720,27 +737,1281 @@ Overfull \hbox (0.4pt too wide) has occurred while \output is active
 [3
 
 
+] [4]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[5] [6]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[7] [8]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[9] [10]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[11] [12]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[13]) [14]
+\openout2 = `Algebra/12.aux'.
+
+ (./Algebra/12.tex
+Underfull \hbox (badness 1231) in paragraph at lines 13--14
+[]\T2A/cmr/bx/n/10.95 186. \T2A/cmr/m/n/10.95 Под-став-ляя за-дан-ные зна-че-ни
+я $\OML/cmm/m/it/10.95 a; b; c$\T2A/cmr/m/n/10.95 , най-дем: $[] \OT1/cmr/m/n/1
+0.95 =
+ []
 
 
-] (./main.aux (./Algebra/11.aux) (./Geometry/21.aux)) ) 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[15
+
+
+
+] [16]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[17] [18]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[19] [20]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[21] [22]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[23]
+Overfull \hbox (2.52225pt too wide) detected at line 152
+[] \OMS/cmsy/m/n/10.95 ^^@ [] \OT1/cmr/m/n/10.95 + [] = [] =
+ []
+
+[24]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[25] [26]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[27] [28]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[29]) [30]
+\openout2 = `Algebra/13.aux'.
+
+ (./Algebra/13.tex
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[31
+
+
+
+] [32]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[33] [34]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[35]
+Overfull \hbox (3.97476pt too wide) detected at line 62
+\OML/cmm/m/it/10.95 x \OMS/cmsy/m/n/10.95 ^^@ [] \OT1/cmr/m/n/10.95 = 1; \OML/c
+mm/m/it/10.95 x[] \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 x \OMS/cmsy/m/n/1
+0.95 ^^@ \OT1/cmr/m/n/10.95 12 = 0; \OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 
+= [] = [] []\OML/cmm/m/it/10.95 :
+ []
+
+[36]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[37] [38]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[39] [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[41] [42]
+Overfull \hbox (6.73093pt too wide) in paragraph at lines 176--176
+\T2A/cmr/m/n/10.95 ре-ше-ния (най-ти \T2A/cmr/bx/n/10.95 пе-ре-се-че-ние \T2A/c
+mr/m/n/10.95 мно-жеств ре-ше-ний от-дель-ных нера-
+ []
+
+<Algebra/1.3.7/1.png, id=151, 140.32425pt x 28.908pt>
+File: Algebra/1.3.7/1.png Graphic file (type png)
+<use Algebra/1.3.7/1.png>
+Package pdftex.def Info: Algebra/1.3.7/1.png  used on input line 178.
+(pdftex.def)             Requested size: 128.60449pt x 26.49553pt.
+<Algebra/1.3.7/2.png, id=153, 117.43875pt x 28.30576pt>
+File: Algebra/1.3.7/2.png Graphic file (type png)
+<use Algebra/1.3.7/2.png>
+Package pdftex.def Info: Algebra/1.3.7/2.png  used on input line 185.
+(pdftex.def)             Requested size: 128.60449pt x 30.9969pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[43 <./Algebra/1.3.7/1.PNG> <./Algebra/1.3.7/2.PNG>]
+<Algebra/1.3.7/3.png, id=160, 119.2455pt x 25.2945pt>
+File: Algebra/1.3.7/3.png Graphic file (type png)
+<use Algebra/1.3.7/3.png>
+Package pdftex.def Info: Algebra/1.3.7/3.png  used on input line 193.
+(pdftex.def)             Requested size: 128.60449pt x 27.28212pt.
+
+Overfull \hbox (5.02698pt too wide) in paragraph at lines 201--202
+[]\T2A/cmr/m/n/10.95 Символ $\U/msb/m/n/10.95 ?$ \T2A/cmr/m/n/10.95 ис-поль-зу-
+ет-ся для обо-зна-че-ния пу-сто-го мно-же-ства. Мно-
+ []
+
+<Algebra/1.3.7/4.png, id=161, 119.84775pt x 24.69225pt>
+File: Algebra/1.3.7/4.png Graphic file (type png)
+<use Algebra/1.3.7/4.png>
+Package pdftex.def Info: Algebra/1.3.7/4.png  used on input line 204.
+(pdftex.def)             Requested size: 128.60449pt x 26.4969pt.
+[44 <./Algebra/1.3.7/3.PNG> <./Algebra/1.3.7/4.PNG>]
+<Algebra/1.3.8/1.png, id=168, 161.403pt x 63.23625pt>
+File: Algebra/1.3.8/1.png Graphic file (type png)
+<use Algebra/1.3.8/1.png>
+Package pdftex.def Info: Algebra/1.3.8/1.png  used on input line 217.
+(pdftex.def)             Requested size: 128.60449pt x 50.38931pt.
+<Algebra/1.3.8/2.png, id=169, 163.812pt x 54.80475pt>
+File: Algebra/1.3.8/2.png Graphic file (type png)
+<use Algebra/1.3.8/2.png>
+Package pdftex.def Info: Algebra/1.3.8/2.png  used on input line 229.
+(pdftex.def)             Requested size: 128.60449pt x 43.02933pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[45 <./Algebra/1.3.8/1.PNG> <./Algebra/1.3.8/2.PNG>]
+<Algebra/1.3.8/3.png, id=175, 135.50626pt x 51.7935pt>
+File: Algebra/1.3.8/3.png Graphic file (type png)
+<use Algebra/1.3.8/3.png>
+Package pdftex.def Info: Algebra/1.3.8/3.png  used on input line 237.
+(pdftex.def)             Requested size: 128.60449pt x 49.1569pt.
+<Algebra/1.3.8/4.png, id=176, 162.00525pt x 53.60025pt>
+File: Algebra/1.3.8/4.png Graphic file (type png)
+<use Algebra/1.3.8/4.png>
+Package pdftex.def Info: Algebra/1.3.8/4.png  used on input line 248.
+(pdftex.def)             Requested size: 128.60449pt x 42.55063pt.
+ [46 <./Algebra/1.3.8/3.PNG> <./Algebra/1.3.8/4.PNG>]
+<Algebra/1.3.8/5.png, id=182, 158.994pt x 66.2475pt>
+File: Algebra/1.3.8/5.png Graphic file (type png)
+<use Algebra/1.3.8/5.png>
+Package pdftex.def Info: Algebra/1.3.8/5.png  used on input line 256.
+(pdftex.def)             Requested size: 128.60449pt x 53.58739pt.
+
+Overfull \hbox (2.54901pt too wide) in paragraph at lines 259--260
+[]\T2A/cmr/m/n/10.95 Для это-го необ-хо-ди-мо, что-бы со-от-вет-ству-ю-щий квад
+-рат-ный трех-
+ []
+
+<Algebra/1.3.8/6.png, id=183, 161.403pt x 54.80475pt>
+File: Algebra/1.3.8/6.png Graphic file (type png)
+<use Algebra/1.3.8/6.png>
+Package pdftex.def Info: Algebra/1.3.8/6.png  used on input line 270.
+(pdftex.def)             Requested size: 128.60449pt x 43.67073pt.
+
+Overfull \hbox (1.14465pt too wide) in paragraph at lines 275--276
+[]\T2A/cmr/m/n/10.95 Значок $\OMS/cmsy/m/n/10.95 [$ \T2A/cmr/m/n/10.95 обо-зна-
+ча-ет объ-еди-не-ние мно-жеств: $\OML/cmm/m/it/10.95 x$ \T2A/cmr/m/n/10.95 при-
+над-ле-жит мно-
+ []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[47 <./Algebra/1.3.8/5.PNG> <./Algebra/1.3.8/6.PNG>]
+<Algebra/1.3.8/7.png, id=189, 160.80075pt x 55.407pt>
+File: Algebra/1.3.8/7.png Graphic file (type png)
+<use Algebra/1.3.8/7.png>
+Package pdftex.def Info: Algebra/1.3.8/7.png  used on input line 280.
+(pdftex.def)             Requested size: 128.60449pt x 44.3138pt.
+<Algebra/1.3.8/8.png, id=190, 159.59625pt x 52.998pt>
+File: Algebra/1.3.8/8.png Graphic file (type png)
+<use Algebra/1.3.8/8.png>
+Package pdftex.def Info: Algebra/1.3.8/8.png  used on input line 288.
+(pdftex.def)             Requested size: 128.60449pt x 42.70656pt.
+<Algebra/1.3.8/9.png, id=191, 161.403pt x 57.816pt>
+File: Algebra/1.3.8/9.png Graphic file (type png)
+<use Algebra/1.3.8/9.png>
+Package pdftex.def Info: Algebra/1.3.8/9.png  used on input line 296.
+(pdftex.def)             Requested size: 128.60449pt x 46.07022pt.
+ [48 <./Algebra/1.3.8/7.PNG> <./Algebra/1.3.8/8.PNG> <./Algebra/1.3.8/9.PNG>]
+<Algebra/1.3.8/10.png, id=198, 162.6075pt x 59.62276pt>
+File: Algebra/1.3.8/10.png Graphic file (type png)
+<use Algebra/1.3.8/10.png>
+Package pdftex.def Info: Algebra/1.3.8/10.png  used on input line 304.
+(pdftex.def)             Requested size: 128.60449pt x 47.15877pt.
+<Algebra/1.3.8/11.png, id=199, 157.7895pt x 60.82726pt>
+File: Algebra/1.3.8/11.png Graphic file (type png)
+<use Algebra/1.3.8/11.png>
+Package pdftex.def Info: Algebra/1.3.8/11.png  used on input line 312.
+(pdftex.def)             Requested size: 128.60449pt x 49.57887pt.
+<Algebra/1.3.8/12.png, id=200, 163.20975pt x 61.4295pt>
+File: Algebra/1.3.8/12.png Graphic file (type png)
+<use Algebra/1.3.8/12.png>
+Package pdftex.def Info: Algebra/1.3.8/12.png  used on input line 320.
+(pdftex.def)             Requested size: 128.60449pt x 48.40596pt.
+)
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[49 <./Algebra/1.3.8/10.PNG> <./Algebra/1.3.8/11.PNG> <./Algebra/1.3.8/12.PNG>]
+\openout2 = `Algebra/14.aux'.
+
+(./Algebra/14.tex [50
+
+
+
+]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[51] [52]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[53] [54])
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[55]
+\openout2 = `Algebra/15.aux'.
+
+ (./Algebra/15.tex [56
+
+
+
+]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[57] [58]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[59]
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 102.
+
+Missing character: There is no С in font cmr10!
+[60]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[61]
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 147.
+
+Missing character: There is no А in font cmr10!
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 153.
+
+Missing character: There is no А in font cmr10!
+[62]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[63]
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 198.
+
+Missing character: There is no В in font cmr10!
+[64]
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 229.
+
+Missing character: There is no А in font cmr10!
+)
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[65]
+\openout2 = `Geometry/21.aux'.
+
+ (./Geometry/21.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+) [66
+
+
+
+
+]
+\openout2 = `Geometry/22.aux'.
+
+ (./Geometry/22.tex)
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[67
+
+
+
+]
+\openout2 = `Geometry/23.aux'.
+
+ (./Geometry/23.tex
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 31.
+
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 31.
+
+Missing character: There is no В in font cmr10!
+Missing character: There is no С in font cmr10!
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 31.
+
+Missing character: There is no А in font cmr10!
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 31.
+
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 31.
+
+Missing character: There is no А in font cmr10!
+Missing character: There is no В in font cmr10!
+[68
+
+
+
+]
+<Geometry/Content/1.png, id=270, 389.20406pt x 222.07968pt>
+File: Geometry/Content/1.png Graphic file (type png)
+<use Geometry/Content/1.png>
+Package pdftex.def Info: Geometry/Content/1.png  used on input line 40.
+(pdftex.def)             Requested size: 128.60449pt x 73.3814pt.
+<Geometry/Content/2.png, id=271, 475.7775pt x 254.45062pt>
+File: Geometry/Content/2.png Graphic file (type png)
+<use Geometry/Content/2.png>
+Package pdftex.def Info: Geometry/Content/2.png  used on input line 56.
+(pdftex.def)             Requested size: 128.60449pt x 68.78023pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[69
+
+ <./Geometry/Content/1.png> <./Geometry/Content/2.png>]
+Overfull \hbox (1.86154pt too wide) in paragraph at lines 72--73
+[]\T2A/cmr/m/n/10.95 Аналогичные со-об-ра-же-ния поз-во-ля-ют ре-шить за-да-чи 
+\T2A/cmr/bx/n/10.95 1739-1743\T2A/cmr/m/n/10.95 . 
+ []
+
+<Geometry/Content/3.png, id=277, 430.60875pt x 267.24844pt>
+File: Geometry/Content/3.png Graphic file (type png)
+<use Geometry/Content/3.png>
+Package pdftex.def Info: Geometry/Content/3.png  used on input line 76.
+(pdftex.def)             Requested size: 128.60449pt x 79.81628pt.
+<Geometry/Content/4.png, id=278, 341.02406pt x 329.73187pt>
+File: Geometry/Content/4.png Graphic file (type png)
+<use Geometry/Content/4.png>
+Package pdftex.def Info: Geometry/Content/4.png  used on input line 89.
+(pdftex.def)             Requested size: 128.60449pt x 124.34848pt.
+[70
+
+ <./Geometry/Content/3.png> <./Geometry/Content/4.png>]
+<Geometry/Content/5.png, id=284, 637.63219pt x 243.15843pt>
+File: Geometry/Content/5.png Graphic file (type png)
+<use Geometry/Content/5.png>
+Package pdftex.def Info: Geometry/Content/5.png  used on input line 115.
+(pdftex.def)             Requested size: 192.91165pt x 73.564pt.
+<Geometry/Content/6.png, id=285, 301.125pt x 362.85562pt>
+File: Geometry/Content/6.png Graphic file (type png)
+<use Geometry/Content/6.png>
+Package pdftex.def Info: Geometry/Content/6.png  used on input line 125.
+(pdftex.def)             Requested size: 96.45583pt x 116.2269pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[71 <./Geometry/Content/5.png> <./Geometry/Content/6.png>]
+<Geometry/Content/7.png, id=293, 417.05812pt x 235.63031pt>
+File: Geometry/Content/7.png Graphic file (type png)
+<use Geometry/Content/7.png>
+Package pdftex.def Info: Geometry/Content/7.png  used on input line 159.
+(pdftex.def)             Requested size: 160.75807pt x 90.8276pt.
+ [72 <./Geometry/Content/7.png>]
+<Geometry/Content/8.png, id=298, 279.29344pt x 304.13625pt>
+File: Geometry/Content/8.png Graphic file (type png)
+<use Geometry/Content/8.png>
+Package pdftex.def Info: Geometry/Content/8.png  used on input line 171.
+(pdftex.def)             Requested size: 128.60449pt x 140.04823pt.
+<Geometry/Content/9.png, id=299, 472.01344pt x 271.76532pt>
+File: Geometry/Content/9.png Graphic file (type png)
+<use Geometry/Content/9.png>
+Package pdftex.def Info: Geometry/Content/9.png  used on input line 181.
+(pdftex.def)             Requested size: 160.75807pt x 92.55655pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[73
+
+ <./Geometry/Content/8.png> <./Geometry/Content/9.png>]
+<Geometry/Content/10.png, id=306, 380.17032pt x 451.6875pt>
+File: Geometry/Content/10.png Graphic file (type png)
+<use Geometry/Content/10.png>
+Package pdftex.def Info: Geometry/Content/10.png  used on input line 194.
+(pdftex.def)             Requested size: 128.60449pt x 152.79979pt.
+<Geometry/Content/11.png, id=307, 430.60875pt x 269.50688pt>
+File: Geometry/Content/11.png Graphic file (type png)
+<use Geometry/Content/11.png>
+Package pdftex.def Info: Geometry/Content/11.png  used on input line 204.
+(pdftex.def)             Requested size: 128.60449pt x 80.4908pt.
+ [74
+
+ <./Geometry/Content/10.png> <./Geometry/Content/11.png>]
+<Geometry/Content/12.png, id=313, 521.69907pt x 282.30469pt>
+File: Geometry/Content/12.png Graphic file (type png)
+<use Geometry/Content/12.png>
+Package pdftex.def Info: Geometry/Content/12.png  used on input line 217.
+(pdftex.def)             Requested size: 160.75807pt x 86.988pt.
+<Geometry/Content/13.png, id=314, 457.71pt x 238.64156pt>
+File: Geometry/Content/13.png Graphic file (type png)
+<use Geometry/Content/13.png>
+Package pdftex.def Info: Geometry/Content/13.png  used on input line 231.
+(pdftex.def)             Requested size: 160.75807pt x 83.8171pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[75
+
+ <./Geometry/Content/12.png> <./Geometry/Content/13.png>]
+<Geometry/Content/14.png, id=320, 535.2497pt x 246.9225pt>
+File: Geometry/Content/14.png Graphic file (type png)
+<use Geometry/Content/14.png>
+Package pdftex.def Info: Geometry/Content/14.png  used on input line 245.
+(pdftex.def)             Requested size: 160.75807pt x 74.1602pt.
+<Geometry/Content/15.png, id=321, 344.78813pt x 223.58531pt>
+File: Geometry/Content/15.png Graphic file (type png)
+<use Geometry/Content/15.png>
+Package pdftex.def Info: Geometry/Content/15.png  used on input line 260.
+(pdftex.def)             Requested size: 128.60449pt x 83.39735pt.
+<Geometry/Content/16.png, id=322, 507.39563pt x 255.95625pt>
+File: Geometry/Content/16.png Graphic file (type png)
+<use Geometry/Content/16.png>
+Package pdftex.def Info: Geometry/Content/16.png  used on input line 268.
+(pdftex.def)             Requested size: 128.60449pt x 64.87155pt.
+ [76 <./Geometry/Content/14.png> <./Geometry/Content/15.png> <./Geometry/Conten
+t/16.png>]
+<Geometry/Content/17.png, id=329, 456.95718pt x 332.74312pt>
+File: Geometry/Content/17.png Graphic file (type png)
+<use Geometry/Content/17.png>
+Package pdftex.def Info: Geometry/Content/17.png  used on input line 278.
+(pdftex.def)             Requested size: 160.75807pt x 117.05586pt.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[77 <./Geometry/Content/17.png>]
+<Geometry/Content/18.png, id=334, 430.60875pt x 344.03531pt>
+File: Geometry/Content/18.png Graphic file (type png)
+<use Geometry/Content/18.png>
+Package pdftex.def Info: Geometry/Content/18.png  used on input line 322.
+(pdftex.def)             Requested size: 128.60449pt x 102.74942pt.
+ [78 <./Geometry/Content/18.png>]
+
+LaTeX Warning: Command \CYRO invalid in math mode on input line 334.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 334.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 334.
+
+
+LaTeX Warning: Command \cyryu invalid in math mode on input line 334.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 334.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 334.
+
+Missing character: There is no О in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no ю in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no а in font cmr10!
+)
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[79]
+\openout2 = `Geometry/24.aux'.
+
+ (./Geometry/24.tex
+<Geometry/Content/19.png, id=343, 420.82219pt x 258.21469pt>
+File: Geometry/Content/19.png Graphic file (type png)
+<use Geometry/Content/19.png>
+Package pdftex.def Info: Geometry/Content/19.png  used on input line 5.
+(pdftex.def)             Requested size: 160.75807pt x 98.63873pt.
+ [80
+
+
+
+ <./Geometry/Content/19.png>]
+<Geometry/Content/20.png, id=348, 398.23781pt x 170.13562pt>
+File: Geometry/Content/20.png Graphic file (type png)
+<use Geometry/Content/20.png>
+Package pdftex.def Info: Geometry/Content/20.png  used on input line 46.
+(pdftex.def)             Requested size: 160.75807pt x 68.67868pt.
+
+Underfull \hbox (badness 2726) in paragraph at lines 50--51
+\T2A/cmr/m/n/10.95 ная тра-пе-ция, то в си-лу сим-мет-рии $\OML/cmm/m/it/10.95 
+AH \OT1/cmr/m/n/10.95 = [] =
+ []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[81 <./Geometry/Content/20.png>]
+File: Geometry/Content/20.png Graphic file (type png)
+<use Geometry/Content/20.png>
+Package pdftex.def Info: Geometry/Content/20.png  used on input line 61.
+(pdftex.def)             Requested size: 160.75807pt x 68.67868pt.
+<Geometry/Content/21.png, id=353, 502.12593pt x 231.86626pt>
+File: Geometry/Content/21.png Graphic file (type png)
+<use Geometry/Content/21.png>
+Package pdftex.def Info: Geometry/Content/21.png  used on input line 71.
+(pdftex.def)             Requested size: 160.75807pt x 74.23409pt.
+<Geometry/Content/22.png, id=354, 369.63094pt x 205.5178pt>
+File: Geometry/Content/22.png Graphic file (type png)
+<use Geometry/Content/22.png>
+Package pdftex.def Info: Geometry/Content/22.png  used on input line 86.
+(pdftex.def)             Requested size: 128.60449pt x 71.50581pt.
+ [82
+
+ <./Geometry/Content/21.png> <./Geometry/Content/22.png>]
+<Geometry/Content/23.png, id=360, 389.95688pt x 245.41687pt>
+File: Geometry/Content/23.png Graphic file (type png)
+<use Geometry/Content/23.png>
+Package pdftex.def Info: Geometry/Content/23.png  used on input line 100.
+(pdftex.def)             Requested size: 160.75807pt x 101.17204pt.
+<Geometry/Content/24.png, id=361, 354.57469pt x 234.1247pt>
+File: Geometry/Content/24.png Graphic file (type png)
+<use Geometry/Content/24.png>
+Package pdftex.def Info: Geometry/Content/24.png  used on input line 115.
+(pdftex.def)             Requested size: 128.60449pt x 84.91714pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[83 <./Geometry/Content/23.png> <./Geometry/Content/24.png>]
+<Geometry/Content/25.png, id=367, 402.00188pt x 160.34906pt>
+File: Geometry/Content/25.png Graphic file (type png)
+<use Geometry/Content/25.png>
+Package pdftex.def Info: Geometry/Content/25.png  used on input line 130.
+(pdftex.def)             Requested size: 160.75807pt x 64.12135pt.
+ [84 <./Geometry/Content/25.png>]
+<Geometry/Content/26.png, id=372, 435.87843pt x 220.57407pt>
+File: Geometry/Content/26.png Graphic file (type png)
+<use Geometry/Content/26.png>
+Package pdftex.def Info: Geometry/Content/26.png  used on input line 157.
+(pdftex.def)             Requested size: 128.60449pt x 65.07887pt.
+<Geometry/Content/27.png, id=373, 502.12593pt x 243.91125pt>
+File: Geometry/Content/27.png Graphic file (type png)
+<use Geometry/Content/27.png>
+Package pdftex.def Info: Geometry/Content/27.png  used on input line 167.
+(pdftex.def)             Requested size: 160.75807pt x 78.09041pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[85
+
+ <./Geometry/Content/26.png> <./Geometry/Content/27.png>]
+<Geometry/Content/28.png, id=380, 365.11406pt x 210.7875pt>
+File: Geometry/Content/28.png Graphic file (type png)
+<use Geometry/Content/28.png>
+Package pdftex.def Info: Geometry/Content/28.png  used on input line 191.
+(pdftex.def)             Requested size: 144.68129pt x 83.5255pt.
+<Geometry/Content/29.png, id=381, 496.85625pt x 212.29312pt>
+File: Geometry/Content/29.png Graphic file (type png)
+<use Geometry/Content/29.png>
+Package pdftex.def Info: Geometry/Content/29.png  used on input line 208.
+(pdftex.def)             Requested size: 144.68129pt x 61.81934pt.
+ [86 <./Geometry/Content/28.png> <./Geometry/Content/29.png>]
+<Geometry/Content/30.png, id=387, 668.4975pt x 179.92218pt>
+File: Geometry/Content/30.png Graphic file (type png)
+<use Geometry/Content/30.png>
+Package pdftex.def Info: Geometry/Content/30.png  used on input line 228.
+(pdftex.def)             Requested size: 192.91165pt x 51.92076pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[87 <./Geometry/Content/30.png>] [88]
+<Geometry/Content/31.png, id=395, 307.1475pt x 248.42813pt>
+File: Geometry/Content/31.png Graphic file (type png)
+<use Geometry/Content/31.png>
+Package pdftex.def Info: Geometry/Content/31.png  used on input line 292.
+(pdftex.def)             Requested size: 128.60449pt x 104.01689pt.
+<Geometry/Content/32.png, id=396, 394.47375pt x 251.43938pt>
+File: Geometry/Content/32.png Graphic file (type png)
+<use Geometry/Content/32.png>
+Package pdftex.def Info: Geometry/Content/32.png  used on input line 315.
+(pdftex.def)             Requested size: 144.68129pt x 92.21773pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[89
+
+ <./Geometry/Content/31.png> <./Geometry/Content/32.png>] [90])
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[91]
+\openout2 = `Geometry/25.aux'.
+
+ (./Geometry/25.tex
+<Geometry/Content/33.png, id=409, 310.91156pt x 297.36093pt>
+File: Geometry/Content/33.png Graphic file (type png)
+<use Geometry/Content/33.png>
+Package pdftex.def Info: Geometry/Content/33.png  used on input line 10.
+(pdftex.def)             Requested size: 128.60449pt x 122.99866pt.
+ [92
+
+
+
+ <./Geometry/Content/33.png>]
+<Geometry/Content/34.png, id=414, 349.305pt x 319.1925pt>
+File: Geometry/Content/34.png Graphic file (type png)
+<use Geometry/Content/34.png>
+Package pdftex.def Info: Geometry/Content/34.png  used on input line 52.
+(pdftex.def)             Requested size: 128.60449pt x 117.51978pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[93
+
+ <./Geometry/Content/34.png>]
+<Geometry/Content/35.png, id=419, 307.90031pt x 319.1925pt>
+File: Geometry/Content/35.png Graphic file (type png)
+<use Geometry/Content/35.png>
+Package pdftex.def Info: Geometry/Content/35.png  used on input line 66.
+(pdftex.def)             Requested size: 128.60449pt x 133.32448pt.
+ [94 <./Geometry/Content/35.png>]
+<Geometry/Content/36.png, id=424, 392.21532pt x 372.64218pt>
+File: Geometry/Content/36.png Graphic file (type png)
+<use Geometry/Content/36.png>
+Package pdftex.def Info: Geometry/Content/36.png  used on input line 85.
+(pdftex.def)             Requested size: 128.60449pt x 122.18762pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[95 <./Geometry/Content/36.png>]
+<Geometry/Content/37.png, id=429, 313.9228pt x 336.50719pt>
+File: Geometry/Content/37.png Graphic file (type png)
+<use Geometry/Content/37.png>
+Package pdftex.def Info: Geometry/Content/37.png  used on input line 110.
+(pdftex.def)             Requested size: 112.53261pt x 120.62389pt.
+<Geometry/Content/38.png, id=430, 501.37312pt x 237.88875pt>
+File: Geometry/Content/38.png Graphic file (type png)
+<use Geometry/Content/38.png>
+Package pdftex.def Info: Geometry/Content/38.png  used on input line 123.
+(pdftex.def)             Requested size: 160.75807pt x 76.27477pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96 <./Geometry/Content/37.png> <./Geometry/Content/38.png>]
+<Geometry/Content/39.png, id=436, 259.7203pt x 335.00156pt>
+File: Geometry/Content/39.png Graphic file (type png)
+<use Geometry/Content/39.png>
+Package pdftex.def Info: Geometry/Content/39.png  used on input line 143.
+(pdftex.def)             Requested size: 112.53261pt x 145.14687pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[97 <./Geometry/Content/39.png>] [98]
+<Geometry/Content/40.png, id=445, 395.97937pt x 328.22626pt>
+File: Geometry/Content/40.png Graphic file (type png)
+<use Geometry/Content/40.png>
+Package pdftex.def Info: Geometry/Content/40.png  used on input line 178.
+(pdftex.def)             Requested size: 112.53261pt x 93.275pt.
+
+Underfull \hbox (badness 1931) in paragraph at lines 182--183
+[]\T2A/cmr/m/n/10.95 Пусть $\OML/cmm/m/it/10.95 ABCD$ \T2A/cmr/m/n/10.95 - рав-
+но-бед-рен-ная тра-пе-ция с ос-но-ва-ни-я-ми $
+ []
+
+<Geometry/Content/41.png, id=446, 555.57562pt x 344.78813pt>
+File: Geometry/Content/41.png Graphic file (type png)
+<use Geometry/Content/41.png>
+Package pdftex.def Info: Geometry/Content/41.png  used on input line 191.
+(pdftex.def)             Requested size: 128.60449pt x 79.8099pt.
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 199.
+
+Missing character: There is no К in font cmr10!
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 199.
+
+Missing character: There is no К in font cmr10!
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[99
+
+ <./Geometry/Content/40.png> <./Geometry/Content/41.png>]
+Overfull \hbox (1.19423pt too wide) in paragraph at lines 207--208
+\T2A/cmr/m/n/10.95 впи-са-на окруж-ность: в та-ком че-ты-рех-уголь-ни-ке сум-мы
+ длин про-
+ []
+
+
+Overfull \hbox (2.40463pt too wide) in paragraph at lines 213--214
+\T2A/cmr/m/n/10.95 пря-мо-уголь-ная, то мень-шая бо-ко-вая сто-ро-на рав-на диа
+-мет-ру впи-
+ []
+
+[100]
+<Geometry/Content/42.png, id=456, 271.0125pt x 281.55188pt>
+File: Geometry/Content/42.png Graphic file (type png)
+<use Geometry/Content/42.png>
+Package pdftex.def Info: Geometry/Content/42.png  used on input line 239.
+(pdftex.def)             Requested size: 128.60449pt x 133.60963pt.
+
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 243.
+
+Missing character: There is no С in font cmr10!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[101
+
+ <./Geometry/Content/42.png>]
+<Geometry/Content/43.png, id=461, 253.69781pt x 272.51813pt>
+File: Geometry/Content/43.png Graphic file (type png)
+<use Geometry/Content/43.png>
+Package pdftex.def Info: Geometry/Content/43.png  used on input line 257.
+(pdftex.def)             Requested size: 112.53261pt x 120.88138pt.
+ [102 <./Geometry/Content/43.png>]
+<Geometry/Content/44.png, id=466, 332.74312pt x 338.01282pt>
+File: Geometry/Content/44.png Graphic file (type png)
+<use Geometry/Content/44.png>
+Package pdftex.def Info: Geometry/Content/44.png  used on input line 271.
+(pdftex.def)             Requested size: 112.53261pt x 114.31422pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[103 <./Geometry/Content/44.png>]
+<Geometry/Content/45.png, id=472, 349.305pt x 362.10281pt>
+File: Geometry/Content/45.png Graphic file (type png)
+<use Geometry/Content/45.png>
+Package pdftex.def Info: Geometry/Content/45.png  used on input line 304.
+(pdftex.def)             Requested size: 112.53261pt x 116.65431pt.
+ [104 <./Geometry/Content/45.png>]
+<Geometry/Content/46.png, id=477, 363.60844pt x 304.13625pt>
+File: Geometry/Content/46.png Graphic file (type png)
+<use Geometry/Content/46.png>
+Package pdftex.def Info: Geometry/Content/46.png  used on input line 314.
+(pdftex.def)             Requested size: 112.53261pt x 94.12811pt.
+<Geometry/Content/47.png, id=478, 317.68687pt x 300.3722pt>
+File: Geometry/Content/47.png Graphic file (type png)
+<use Geometry/Content/47.png>
+Package pdftex.def Info: Geometry/Content/47.png  used on input line 325.
+(pdftex.def)             Requested size: 112.53261pt x 106.40141pt.
+<Geometry/Content/48.png, id=479, 466.74374pt x 359.09157pt>
+File: Geometry/Content/48.png Graphic file (type png)
+<use Geometry/Content/48.png>
+Package pdftex.def Info: Geometry/Content/48.png  used on input line 335.
+(pdftex.def)             Requested size: 112.53261pt x 86.57275pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[105 <./Geometry/Content/46.png> <./Geometry/Content/47.png> <./Geometry/Conten
+t/48.png>]
+<Geometry/Content/49.png, id=486, 293.59688pt x 283.81032pt>
+File: Geometry/Content/49.png Graphic file (type png)
+<use Geometry/Content/49.png>
+Package pdftex.def Info: Geometry/Content/49.png  used on input line 362.
+(pdftex.def)             Requested size: 112.53261pt x 108.7801pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106]
+<Geometry/Content/50.png, id=490, 304.88907pt x 277.035pt>
+File: Geometry/Content/50.png Graphic file (type png)
+<use Geometry/Content/50.png>
+Package pdftex.def Info: Geometry/Content/50.png  used on input line 372.
+(pdftex.def)             Requested size: 112.53261pt x 102.25194pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[107 <./Geometry/Content/49.png> <./Geometry/Content/50.png>]) [108]
+\openout2 = `Geometry/26.aux'.
+
+
+(./Geometry/26.tex
+<Geometry/Content/51.png, id=499, 385.44pt x 251.43938pt>
+File: Geometry/Content/51.png Graphic file (type png)
+<use Geometry/Content/51.png>
+Package pdftex.def Info: Geometry/Content/51.png  used on input line 5.
+(pdftex.def)             Requested size: 112.53261pt x 73.40663pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[109
+
+
+
+ <./Geometry/Content/51.png>] [110]
+File: Geometry/Content/51.png Graphic file (type png)
+<use Geometry/Content/51.png>
+Package pdftex.def Info: Geometry/Content/51.png  used on input line 64.
+(pdftex.def)             Requested size: 128.60449pt x 83.8922pt.
+
+Underfull \hbox (badness 1448) in paragraph at lines 78--79
+[]\T2A/cmr/bx/n/10.95 2250. \T2A/cmr/m/n/10.95 (см. чер-теж за-да-чи \T2A/cmr/b
+x/n/10.95 2242\T2A/cmr/m/n/10.95 ). $[] \OML/cmm/m/it/10.95 A \OT1/cmr/m/n/10.9
+5 = [] =
+ []
+
+File: Geometry/Content/51.png Graphic file (type png)
+<use Geometry/Content/51.png>
+Package pdftex.def Info: Geometry/Content/51.png  used on input line 84.
+(pdftex.def)             Requested size: 128.60449pt x 83.8922pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[111
+
+]
+<Geometry/Content/52.png, id=511, 384.6872pt x 264.23718pt>
+File: Geometry/Content/52.png Graphic file (type png)
+<use Geometry/Content/52.png>
+Package pdftex.def Info: Geometry/Content/52.png  used on input line 100.
+(pdftex.def)             Requested size: 128.60449pt x 88.33957pt.
+<Geometry/Content/53.png, id=512, 287.57437pt x 324.46219pt>
+File: Geometry/Content/53.png Graphic file (type png)
+<use Geometry/Content/53.png>
+Package pdftex.def Info: Geometry/Content/53.png  used on input line 112.
+(pdftex.def)             Requested size: 112.53261pt x 126.96552pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112 <./Geometry/Content/52.png> <./Geometry/Content/53.png>])
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[113]
+\openout2 = `Geometry/27.aux'.
+
+ (./Geometry/27.tex
+<Geometry/Content/54.png, id=522, 497.60907pt x 331.99031pt>
+File: Geometry/Content/54.png Graphic file (type png)
+<use Geometry/Content/54.png>
+Package pdftex.def Info: Geometry/Content/54.png  used on input line 23.
+(pdftex.def)             Requested size: 160.75807pt x 107.25221pt.
+ [114
+
+
+
+ <./Geometry/Content/54.png>]
+<Geometry/Content/55.png, id=527, 353.82187pt x 371.88937pt>
+File: Geometry/Content/55.png Graphic file (type png)
+<use Geometry/Content/55.png>
+Package pdftex.def Info: Geometry/Content/55.png  used on input line 52.
+(pdftex.def)             Requested size: 128.60449pt x 135.17386pt.
+
+Underfull \vbox (badness 6995) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[115]
+Overfull \hbox (0.43188pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/10.95 = (32\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 24)$\T2A/cmr/m
+/n/10.95 , а дли-на это-го век-то-ра рав-на $\OMS/cmsy/m/n/10.95 j[] \OT1/cmr/m
+/n/10.95 + []\OMS/cmsy/m/n/10.95 j \OT1/cmr/m/n/10.95 = [] =
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 72--74
+[]\T2A/cmr/m/n/10.95 Координатная трак-тов-ка: ска-ляр-ное про-из-ве-де-ние век
+-то-ров
+ []
+
+[116 <./Geometry/Content/55.png>]
+<Geometry/Content/56.png, id=536, 588.69937pt x 385.44pt>
+File: Geometry/Content/56.png Graphic file (type png)
+<use Geometry/Content/56.png>
+Package pdftex.def Info: Geometry/Content/56.png  used on input line 83.
+(pdftex.def)             Requested size: 160.75807pt x 105.25233pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[117 <./Geometry/Content/56.png>]
+<Geometry/Content/57.png, id=541, 472.01344pt x 304.88907pt>
+File: Geometry/Content/57.png Graphic file (type png)
+<use Geometry/Content/57.png>
+Package pdftex.def Info: Geometry/Content/57.png  used on input line 99.
+(pdftex.def)             Requested size: 160.75807pt x 103.83769pt.
+<Geometry/Content/58.png, id=542, 459.21562pt x 248.42813pt>
+File: Geometry/Content/58.png Graphic file (type png)
+<use Geometry/Content/58.png>
+Package pdftex.def Info: Geometry/Content/58.png  used on input line 114.
+(pdftex.def)             Requested size: 160.75807pt x 86.96631pt.
+ [118 <./Geometry/Content/57.png> <./Geometry/Content/58.png>]
+<Geometry/Content/59.png, id=548, 447.92343pt x 313.17pt>
+File: Geometry/Content/59.png Graphic file (type png)
+<use Geometry/Content/59.png>
+Package pdftex.def Info: Geometry/Content/59.png  used on input line 130.
+(pdftex.def)             Requested size: 160.75807pt x 112.39227pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[119 <./Geometry/Content/59.png>]) [120]
+\openout2 = `Text_exercises/chap3.aux'.
+
+ (./Text_exercises/chap3.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[121
+
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122]
+Overfull \hbox (3.0127pt too wide) in paragraph at lines 95--96
+[][] \OMS/cmsy/m/n/10.95 ^^A \OT1/cmr/m/n/10.95 100\OML/cmm/m/it/10.95 ; []$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [124]
+Overfull \hbox (2.41508pt too wide) in paragraph at lines 154--155
+[]\T2A/cmr/bx/n/10.95 2574. $[]\OT1/cmr/m/n/10.95 25 \OMS/cmsy/m/n/10.95 ^^A
+ []
+
+
+Overfull \hbox (2.69354pt too wide) in paragraph at lines 162--163
+[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[125]
+Overfull \hbox (3.45102pt too wide) in paragraph at lines 186--196
+[]\T2A/cmr/bx/n/10.95 2612. $[]\OML/cmm/m/it/10.95 x[]y[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128]
+Overfull \hbox (1.27235pt too wide) in paragraph at lines 296--318
+\T2A/cmr/bx/n/10.95 2776. \T2A/cmr/m/n/10.95 Ан-дрей про-плыл первую по-ло-ви-н
+у ди-стан-ции на 20 с. быст-
+ []
+
+<Text_exercises/Content/pic_2799.png, id=582, 164.11313pt x 98.61844pt>
+File: Text_exercises/Content/pic_2799.png Graphic file (type png)
+<use Text_exercises/Content/pic_2799.png>
+Package pdftex.def Info: Text_exercises/Content/pic_2799.png  used on input lin
+e 327.
+(pdftex.def)             Requested size: 128.60449pt x 77.2817pt.
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[129] [130 <./Text_exercises/Content/pic_2799.PNG>]
+<Text_exercises/Content/pic_2810.png, id=590, 149.05687pt x 147.55125pt>
+File: Text_exercises/Content/pic_2810.png Graphic file (type png)
+<use Text_exercises/Content/pic_2810.png>
+Package pdftex.def Info: Text_exercises/Content/pic_2810.png  used on input lin
+e 348.
+(pdftex.def)             Requested size: 128.60449pt x 127.3126pt.
+<Text_exercises/Content/pic_2817.png, id=591, 280.04625pt x 158.09062pt>
+File: Text_exercises/Content/pic_2817.png Graphic file (type png)
+<use Text_exercises/Content/pic_2817.png>
+Package pdftex.def Info: Text_exercises/Content/pic_2817.png  used on input lin
+e 360.
+(pdftex.def)             Requested size: 128.60449pt x 72.60194pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[131 <./Text_exercises/Content/pic_2810.PNG>]
+<Text_exercises/Content/pic_2825.png, id=596, 304.88907pt x 124.96687pt>
+File: Text_exercises/Content/pic_2825.png Graphic file (type png)
+<use Text_exercises/Content/pic_2825.png>
+Package pdftex.def Info: Text_exercises/Content/pic_2825.png  used on input lin
+e 369.
+(pdftex.def)             Requested size: 128.60449pt x 52.71263pt.
+<Text_exercises/Content/pic_2833.png, id=597, 351.56343pt x 145.29282pt>
+File: Text_exercises/Content/pic_2833.png Graphic file (type png)
+<use Text_exercises/Content/pic_2833.png>
+Package pdftex.def Info: Text_exercises/Content/pic_2833.png  used on input lin
+e 379.
+(pdftex.def)             Requested size: 128.60449pt x 53.14781pt.
+ [132 <./Text_exercises/Content/pic_2817.PNG> <./Text_exercises/Content/pic_282
+5.PNG> <./Text_exercises/Content/pic_2833.PNG>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[133]
+Overfull \hbox (0.49663pt too wide) in paragraph at lines 414--424
+[] \OML/cmm/m/it/10.95 ; []$ \T2A/cmr/m/n/10.95 В со-от-вет-ствии с тео-ре-мой 
+Ви-
+ []
+
+[134]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
+Overfull \hbox (0.88884pt too wide) in paragraph at lines 492--493
+\T2A/cmr/m/n/10.95 нов. По-след-ним мо-жет ока-зать-ся с рав-ны-ми воз-мож-но-с
+тя-ми каж-
+ []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[137]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [138]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[139] [140]
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[141
+
+]
+Overfull \vbox (7.39717pt too high) has occurred while \output is active []
+
+
+[142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[143]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [144])
+Overfull \hbox (0.4pt too wide) has occurred while \output is active
+[] | [] |
+ []
+
+[145] (./main.aux (./Algebra/11.aux) (./Algebra/12.aux) (./Algebra/13.aux)
+(./Algebra/14.aux) (./Algebra/15.aux) (./Geometry/21.aux) (./Geometry/22.aux)
+(./Geometry/23.aux) (./Geometry/24.aux) (./Geometry/25.aux) (./Geometry/26.aux)
+(./Geometry/27.aux) (./Text_exercises/chap3.aux)) ) 
 Here is how much of TeX's memory you used:
- 8606 strings out of 478278
- 141923 string characters out of 5841530
- 438497 words of memory out of 5000000
- 26631 multiletter control sequences out of 15000+600000
- 477773 words of font info for 50 fonts, out of 8000000 for 9000
+ 9618 strings out of 478371
+ 165968 string characters out of 5852527
+ 490660 words of memory out of 5000000
+ 27394 multiletter control sequences out of 15000+600000
+ 416532 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,90p,303b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/programm/TeX Live/te
-xlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<d:/programm/Te
-X Live/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/pro
-gramm/TeX Live/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb
-><d:/programm/TeX Live/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm
-1000.pfb>
-Output written on main.pdf (3 pages, 49588 bytes).
+ 83i,14n,90p,1555b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/
+fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2021/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public
+/amsfonts/cmextra/cmex8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive
+/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2021/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2021/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
+bm10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><
+c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive
+/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2021/texm
+f-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (145 pages, 2367756 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 711 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 421 words of extra memory for PDF output out of 10000 (max. 10000000)
 
